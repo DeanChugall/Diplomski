@@ -1,5 +1,5 @@
 /*
- * (C) Copyright 2014 Amaury Crickx
+ * (C) Copyright 2014 Dean Chugall
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@ import java.util.Arrays;
  * @see <a href="http://en.wikipedia.org/wiki/Autocorrelation">Autocorrelation</a>
  * @see <a href="http://en.wikipedia.org/wiki/Voice_activity_detection">Voice activity detection</a>
  * @see <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6403507&punumber%3D97">Unsupervised VAD article on IEEE</a>
- * @author Amaury Crickx
+ * @author Dean Chugall
  */
 public class AutocorrellatedVoiceActivityDetector {
     
